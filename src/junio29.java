@@ -7,7 +7,7 @@ public class junio29 {
         int ingreso = scanner.nextInt();
         // String ingreso = scanner.nextLine();
         System.out.println(ingreso);
-        
+        System.out.println("ana");
     }
     
 }
